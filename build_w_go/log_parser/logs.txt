@@ -1,0 +1,5 @@
+2026-08-24T10:15:02 INFO server listening on :8080
+2026-08-24T10:15:09 WARN disk usage at 81%
+2026-08-24T10:16:44 ERROR failed to connect to postgres
+2026-08-24T10:16:45 INFO retrying connection
+garbage line with no level
